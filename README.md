@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Allen Andrew</h1>
 <h3 align="center">A passionate FullStack developer from Tanzania</h3>
 
-- 🔭 I’m currently working on **PTMS**
-
 - 🌱 I’m currently learning **Flutter and MongoDB**
 
 - 👯 I’m looking to collaborate on **Laravel,React,python and Flutter**
