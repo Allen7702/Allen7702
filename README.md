@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Laravel,React,python and Flutter**
 
-- 📫 How to reach me **allen22052000@gmail.com**
+- 📫 How to reach me **allenandr3w@gmail.com**
 
 - ⚡ Fun fact **Why did the programmer quit his job? Because he didn't get arrays.**
 
